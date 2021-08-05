@@ -11,7 +11,7 @@
 *.sass-cache
 node_modules/
 .tmp/
-
+app/bundled.js
 # OS or Editor folders
 .DS_Store
 Thumbs.db
