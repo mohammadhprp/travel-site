@@ -16,7 +16,7 @@ git clone https://github.com/mohammadhprp/travel-site.git
 npm install
 ```
 
-### Run local sever
+### Run local server
 
 ```sh
 npm run dev
