@@ -9,7 +9,7 @@
     flex: 1;
   }
 
-  &___error {
+  &__error {
     color: red;
   }
 }
