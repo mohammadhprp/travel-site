@@ -14,6 +14,9 @@ exports.handler = function(event, context, callback) {
 
   if (body.password == "javascript") {
     callback(null, {
+      headers: {
+          "Access-Control-Allow-Origin": "*"
+      },
       statusCode: 200,
       body: secretContent
     })
