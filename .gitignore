@@ -12,7 +12,7 @@
 *.sass-cache
 node_modules/
 dist/
-docs/
+#docs/
 .tmp/
 app/bundled.js
 # OS or Editor folders
