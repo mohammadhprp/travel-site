@@ -7,6 +7,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
+    "ansi-html": "^0.0.7",
     "axios": "^0.21.1",
     "lazysizes": "^5.1.2",
     "lodash": "^4.17.15",
